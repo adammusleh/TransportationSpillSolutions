@@ -141,3 +141,7 @@ main {
 #contact-form button:hover {
     background: #e64e2c;
 }
+
+body {
+    background-color: #004a7c;
+}
